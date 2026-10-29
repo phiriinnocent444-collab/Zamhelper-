@@ -1,0 +1,21 @@
+{
+  "name": "ZamHelper",
+  "short_name": "ZamHelper",
+  "description": "Reliable help, anytime. Book trusted local helpers in Zambia.",
+  "start_url": "index.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0b2a7a",
+  "lang": "en-ZM",
+  "icons": [
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Book a service", "url": "book.php"},
+    {"name": "My bookings", "url": "dashboard.php"}
+  ]
+}

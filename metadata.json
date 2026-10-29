@@ -1,0 +1,6 @@
+{
+  "name": "ZamHelper — Verified Home & On-Demand Services",
+  "description": "Multi-platform on-demand verified helper and local services marketplace for PC, Android, and iOS with transparent pricing, instant booking, and robust SDLC architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

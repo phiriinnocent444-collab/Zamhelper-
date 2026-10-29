@@ -1,0 +1,56 @@
+{
+  "name": "ZamHelper — Verified Home & On-Demand Services",
+  "short_name": "ZamHelper",
+  "description": "Reliable help, anytime. Book verified local helpers across Zambia with transparent pricing, instant booking, and guaranteed trust.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8faf6",
+  "theme_color": "#1b7a34",
+  "categories": ["lifestyle", "utilities", "productivity", "business"],
+  "lang": "en-ZM",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Book a Helper",
+      "short_name": "Book",
+      "description": "Quickly book a verified local helper",
+      "url": "/?view=book",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Verified Helpers",
+      "short_name": "Helpers",
+      "description": "Explore available helpers and reviews",
+      "url": "/?view=helpers",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "SDLC & Algorithms Center",
+      "short_name": "Architecture",
+      "description": "Inspect software engineering models & complexity benchmarks",
+      "url": "/?view=sdlc",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

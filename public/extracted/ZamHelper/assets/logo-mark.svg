@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 84" role="img" aria-label="ZamHelper running helper logo">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9be32a"/><stop offset="1" stop-color="#1fa84a"/></linearGradient></defs>
+<g stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M4 30h30M10 41h26M6 52h22" stroke="#7fe03a" stroke-width="5"/>
+<path d="M66 33 52 52" stroke="url(#g)" stroke-width="14"/>
+<path d="M52 52 38 62 22 74" stroke="url(#g)" stroke-width="9"/>
+<path d="M54 54 70 62 66 77" stroke="url(#g)" stroke-width="9"/>
+<path d="M66 34 88 46" stroke="url(#g)" stroke-width="8"/>
+<path d="M62 30 46 20" stroke="url(#g)" stroke-width="8"/>
+</g>
+<circle cx="72" cy="20" r="10" fill="url(#g)"/>
+<path d="M60 17c1-9 12-12 20-8l12 5c2 1 2 3 0 3l-12-1-4 3z" fill="#2fbf3f"/>
+<rect x="88" y="47" width="26" height="17" rx="3" fill="#52dc3b"/>
+<path d="M95 47v-3h12v3" fill="none" stroke="#52dc3b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88 54h26" stroke="#1fa84a" stroke-width="2.5"/><rect x="99" y="52" width="4" height="5" rx="1" fill="#1fa84a"/>
+</svg>
